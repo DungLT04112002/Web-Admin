@@ -1,0 +1,8 @@
+vue init webpack my-project
+npm instal qrcode
+npm instal express
+npm instal axios
+npm instal cors
+npm instal mysql
+
+nhớ phải chạy server server.js
